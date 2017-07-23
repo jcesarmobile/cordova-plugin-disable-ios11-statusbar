@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-disable-ios11-statusbar",
+  "version": "1.0.0",
+  "description": "Plugin to disable the iOS 11 statusbar",
+  "cordova": {
+    "id": "cordova-plugin-disable-ios11-statusbar",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcesarmobile/cordova-plugin-disable-ios11-statusbar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "jcesarmobile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcesarmobile/cordova-plugin-disable-ios11-statusbar/issues"
+  },
+  "homepage": "https://github.com/jcesarmobile/cordova-plugin-disable-ios11-statusbar#readme"
+}
